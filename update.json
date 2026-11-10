@@ -1,5 +1,5 @@
 {
-  "version": "2.0.1",
-  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/2411444a62713d390a679058e8bcb7a0a9717b6e/ft4a-leden.zip",
-  "notes": "Alle pagina's als WordPress-pagina's (editor); startpagina: blokken met titel over de volle breedte, zijtekst weg"
+  "version": "2.0.2",
+  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/f6ebb4d5a0c7b83dd5e43eb3f6fd134531d19b3b/ft4a-leden.zip",
+  "notes": "Alle pagina's als WordPress-pagina's (editor); startpagina-blokken met titel over volle breedte; footer zonder WhatsApp-nummer en kopieerknop"
 }
