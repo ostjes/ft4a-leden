@@ -1,5 +1,5 @@
 {
-  "version": "1.8.5",
-  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/dddeefcce9349446bcce8217e5eef7dfaac231e7/ft4a-leden.zip",
-  "notes": "Automatische voorbeeldafbeelding bij het uploaden van een oefening."
+  "version": "1.8.6",
+  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/80e48b3f0eeb6469003b5609b99a0fe7054558c7/ft4a-leden.zip",
+  "notes": "Symbool bij oefeningen met animatie + filter 'Met animatie'"
 }
