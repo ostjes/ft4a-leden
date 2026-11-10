@@ -1,5 +1,5 @@
 {
-  "version": "2.2.0",
-  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/e452d2ae845f2ad284236fd90aac7eddbcb29ea5/ft4a-leden.zip",
-  "notes": "Beheer: knop 'Database leegmaken' bij Oefeningen importeren"
+  "version": "2.3.0",
+  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/fbbb9af750700bdd036927adf59b9a4cadcb2ed2/ft4a-leden.zip",
+  "notes": "Oefeningen per taal: vertaalde titel en omschrijving, Engels als standaard"
 }
