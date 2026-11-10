@@ -1,5 +1,5 @@
 {
-  "version": "2.0.3",
-  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/71dcd6eaf4e3d83447a776b3da729ba4ae6a5498/ft4a-leden.zip",
-  "notes": "Footer zonder WhatsApp-nummer en kopieerknop; knop 'Bekijk de prijzen' in het groene blok weer klikbaar"
+  "version": "2.0.4",
+  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/f6754381f9218af034d6b3f3b23398751f327d94/ft4a-leden.zip",
+  "notes": "Bovenste blokken over de volle breedte; schermafbeeldingen uit de software op de softwarepagina; footer zonder WhatsApp-nummer; prijzenknop klikbaar"
 }
