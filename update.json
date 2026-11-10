@@ -1,5 +1,5 @@
 {
-  "version": "1.8.1",
-  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/main/ft4a-leden.zip",
-  "notes": "Test van de automatische update."
+  "version": "1.8.2",
+  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/dd04347af30a5d3adf70bcb89fe91e50fd6e7966/ft4a-leden.zip",
+  "notes": "Update-controle via de GitHub-API (sneller en betrouwbaarder)."
 }
