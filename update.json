@@ -1,5 +1,5 @@
 {
-  "version": "1.9.1",
-  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/4f29d00c47f7702d706ac67416ea3b61045538e7/ft4a-leden.zip",
-  "notes": "SEO: robots.txt opgeschoond, sitemap met echte lastmod, geen dubbele Yoast-tags"
+  "version": "2.3.1",
+  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/9c417c2a01bed7f40875d82b61a9e9b5a6111934/ft4a-leden.zip",
+  "notes": "Oefening openen in de taal van de pagina"
 }
