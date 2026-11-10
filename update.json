@@ -1,5 +1,5 @@
 {
-  "version": "2.3.0",
-  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/fbbb9af750700bdd036927adf59b9a4cadcb2ed2/ft4a-leden.zip",
-  "notes": "Oefeningen per taal: vertaalde titel en omschrijving, Engels als standaard"
+  "version": "2.3.1",
+  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/9c417c2a01bed7f40875d82b61a9e9b5a6111934/ft4a-leden.zip",
+  "notes": "Oefening openen in de taal van de pagina"
 }
