@@ -1,5 +1,5 @@
 {
-  "version": "2.1.0",
-  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/8ced63cb0d4d9d98f883afd4f93ac99911cd82e3/ft4a-leden.zip",
-  "notes": "Softwarepagina (alle talen behalve Nederlands): Engelse video voor het tekenprogramma"
+  "version": "2.2.0",
+  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/e452d2ae845f2ad284236fd90aac7eddbcb29ea5/ft4a-leden.zip",
+  "notes": "Beheer: knop 'Database leegmaken' bij Oefeningen importeren"
 }
