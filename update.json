@@ -1,5 +1,5 @@
 {
-  "version": "1.9.1",
-  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/01e2218012a1dfcb363c796d4234ec63e86b7630/ft4a-leden.zip",
-  "notes": "Softwarepagina (NL): Nederlandse instructievideo's voor tekenprogramma en animatie"
+  "version": "1.9.2",
+  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/2e4263234a19e41043edf46b3e4f91c92c5a9f06/ft4a-leden.zip",
+  "notes": "Pagina's die in de WordPress-editor zijn aangepast worden bij updates niet meer overschreven"
 }
