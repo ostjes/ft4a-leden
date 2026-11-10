@@ -1,5 +1,5 @@
 {
-  "version": "1.8.4",
-  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/b5cabb4ce13e067e34833e92716c5d996997ab2f/ft4a-leden.zip",
-  "notes": "Echte voorbeeldafbeeldingen van de oefeningen in de ledendatabase."
+  "version": "1.8.5",
+  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/dddeefcce9349446bcce8217e5eef7dfaac231e7/ft4a-leden.zip",
+  "notes": "Automatische voorbeeldafbeelding bij het uploaden van een oefening."
 }
