@@ -1,5 +1,5 @@
 {
-  "version": "2.0.0",
-  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/c416133a12096aba7c852522dc9c92fca135a7ad/ft4a-leden.zip",
-  "notes": "Alle pagina's in alle talen staan nu als WordPress-pagina's en zijn in de editor te bewerken; startpagina: titel 'Van idee tot training' over de volle breedte"
+  "version": "2.0.1",
+  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/2411444a62713d390a679058e8bcb7a0a9717b6e/ft4a-leden.zip",
+  "notes": "Alle pagina's als WordPress-pagina's (editor); startpagina: blokken met titel over de volle breedte, zijtekst weg"
 }
