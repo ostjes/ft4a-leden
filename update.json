@@ -1,5 +1,5 @@
 {
-  "version": "1.8.3",
-  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/0fe43de5601752dc6df1546abb650b4938524797/ft4a-leden.zip",
-  "notes": "De oefeningendatabase is alleen zichtbaar voor ingelogde leden met een online of compleet pakket; anderen zien de voorbeelden."
+  "version": "1.8.4",
+  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/b5cabb4ce13e067e34833e92716c5d996997ab2f/ft4a-leden.zip",
+  "notes": "Echte voorbeeldafbeeldingen van de oefeningen in de ledendatabase."
 }
