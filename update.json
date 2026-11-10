@@ -1,5 +1,5 @@
 {
-  "version": "1.8.2",
-  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/dd04347af30a5d3adf70bcb89fe91e50fd6e7966/ft4a-leden.zip",
-  "notes": "Update-controle via de GitHub-API (sneller en betrouwbaarder)."
+  "version": "1.8.3",
+  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/0fe43de5601752dc6df1546abb650b4938524797/ft4a-leden.zip",
+  "notes": "De oefeningendatabase is alleen zichtbaar voor ingelogde leden met een online of compleet pakket; anderen zien de voorbeelden."
 }
