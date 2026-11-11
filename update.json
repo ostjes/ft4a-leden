@@ -1,5 +1,5 @@
 {
-  "version": "2.4.3",
-  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/b036305384838b015213207d05a049c381117be7/ft4a-leden.zip",
-  "notes": "Formulierpagina's (contact, registreren, oefening toevoegen) niet cachen"
+  "version": "2.5.0",
+  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/d62d9e00969279c1481ad148d7f04aa0761a7db3/ft4a-leden.zip",
+  "notes": "Menselijkere teksten op alle pagina's, in 18 talen"
 }
