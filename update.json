@@ -1,5 +1,5 @@
 {
-  "version": "2.4.0",
-  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/1ebcc0bde62d48a2d8a7537dc60ec20eb1491572/ft4a-leden.zip",
-  "notes": "Privacybeleid en algemene voorwaarden in 18 talen, footerlinks naar eigen pagina's, '2100 oefeningen' volgt het echte aantal, lege demovideo weg"
+  "version": "2.4.1",
+  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/6aaba802f761f4b9ee1f4ef53b25b7bf7895b3db/ft4a-leden.zip",
+  "notes": "Lettertypen van ft4a.com zelf in plaats van Google Fonts"
 }
