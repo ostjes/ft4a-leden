@@ -1,5 +1,5 @@
 {
-  "version": "2.3.2",
-  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/8b3dd0decbf3174d2bc10453e67cebce0caef120/ft4a-leden.zip",
-  "notes": "SEO: robots.txt opgeschoond, sitemap met echte wijzigingsdatum, geen dubbele Yoast-tags"
+  "version": "2.4.0",
+  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/1ebcc0bde62d48a2d8a7537dc60ec20eb1491572/ft4a-leden.zip",
+  "notes": "Privacybeleid en algemene voorwaarden in 18 talen, footerlinks naar eigen pagina's, '2100 oefeningen' volgt het echte aantal, lege demovideo weg"
 }
