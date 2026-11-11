@@ -1,5 +1,5 @@
 {
   "version": "2.7.1",
-  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/a119fc68072e9b1e542aaa718c6f7b7ded782518/ft4a-leden.zip",
-  "notes": "Modern talenblok op de homepage (2.7.0); Duitse instructievideo's; hulp-links uit de software springen naar de video's"
+  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/0f44a34eec1a6bed46b2b1e9f39c3d41de5f49ee/ft4a-leden.zip",
+  "notes": "Talenblok + Duitse instructievideo's (samengevoegd met 2.6.6)"
 }
