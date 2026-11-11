@@ -1,5 +1,5 @@
 {
-  "version": "2.4.2",
-  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/6ffdb7b0c641c13064721fa27017c4b497799b78/ft4a-leden.zip",
-  "notes": "Taalcookie via de browser, zodat pagina's gecachet kunnen worden"
+  "version": "2.4.3",
+  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/b036305384838b015213207d05a049c381117be7/ft4a-leden.zip",
+  "notes": "Formulierpagina's (contact, registreren, oefening toevoegen) niet cachen"
 }
