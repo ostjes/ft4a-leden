@@ -1,5 +1,5 @@
 {
-  "version": "3.3.4",
-  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/c0739b7170660140b04e671442d87135fa44d2f0/ft4a-leden.zip",
-  "notes": "Oefeningen niet in sitemap en niet voor zoekmachines (enkel voor leden)"
+  "version": "3.3.5",
+  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/086f4f75931bd5ecc6b0b3eb7f3cf062ae4d27f3/ft4a-leden.zip",
+  "notes": "Sitemap: verzorgde opmaak in de browser (XSL)"
 }
