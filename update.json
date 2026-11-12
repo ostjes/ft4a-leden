@@ -1,5 +1,5 @@
 {
-  "version": "2.9.8",
-  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/c11b5c44474c27bc6767a184d421d8230a714e65/ft4a-leden.zip",
-  "notes": "Handleiding en voorbeeldoefeningen: video's in een grote popup, herhalen automatisch"
+  "version": "2.9.9",
+  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/298074fc58f7b8edaf8de3a03d030e65ac34f8db/ft4a-leden.zip",
+  "notes": "Oefeningenpagina: uitgebreidere categorieteksten, kaarten tonen enkel 'Voorbeeldoefening – categorie'"
 }
