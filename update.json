@@ -1,5 +1,5 @@
 {
-  "version": "2.9.10",
-  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/87bf2f380b457608c9b6a8b28295c4b1056605d8/ft4a-leden.zip",
-  "notes": "Oefeningenpagina: uitgebreidere categorieteksten, nieuwe video bij Scoren 2; video's in grote popup die herhaalt"
+  "version": "3.0.0",
+  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/3a8746e311d2473ebca1a48ea37956e4c36e8ab6/ft4a-leden.zip",
+  "notes": "Oefeningenpagina's worden weer bijgewerkt bij updates (video-ID Scoren 1 overgenomen)"
 }
