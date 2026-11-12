@@ -1,5 +1,5 @@
 {
-  "version": "3.2.2",
-  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/a6f5e69450259a053eaf71be890ea2eb8a081715/ft4a-leden.zip",
-  "notes": "Prijzenpagina: afbeelding bovenaan op 1/3 van de breedte"
+  "version": "3.2.3",
+  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/5bf69465b78056c2a39db352edbd6bf70d892c91/ft4a-leden.zip",
+  "notes": "Prijzenpagina: titel op één lijn"
 }
