@@ -1,5 +1,5 @@
 {
-  "version": "3.2.3",
-  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/5bf69465b78056c2a39db352edbd6bf70d892c91/ft4a-leden.zip",
-  "notes": "Prijzenpagina: titel op één lijn"
+  "version": "3.2.4",
+  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/ec396b6fbe01298a061fe6d6041791ab78e1d1fb/ft4a-leden.zip",
+  "notes": "Prijzenpagina: titel schaalt mee en vult altijd de breedte"
 }
