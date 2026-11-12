@@ -1,5 +1,5 @@
 {
-  "version": "3.2.8",
-  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/6db26f430faaa5fe0514adea9f9dfcf12058add5/ft4a-leden.zip",
-  "notes": "Prijzen: online pakketten tonen 'Altijd internet nodig' met rood kruis"
+  "version": "3.2.9",
+  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/c1d6dcfea094925584f437d7c259ff30f53de929/ft4a-leden.zip",
+  "notes": "Nieuwe prijzen (35/38/69 en 149/155/279 euro), ook in de winkel; benadering in eigen munt voor talen buiten de eurozone"
 }
