@@ -1,5 +1,5 @@
 {
-  "version": "3.2.7",
-  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/eb801485f20bca800e0602da76a6b75f07d209b3/ft4a-leden.zip",
-  "notes": "Prijzen: offline pakketten tonen 'Geen toegang tot de oefeningen' met rood kruis"
+  "version": "3.2.8",
+  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/6db26f430faaa5fe0514adea9f9dfcf12058add5/ft4a-leden.zip",
+  "notes": "Prijzen: online pakketten tonen 'Altijd internet nodig' met rood kruis"
 }
