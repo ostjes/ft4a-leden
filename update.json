@@ -1,5 +1,5 @@
 {
-  "version": "3.2.6",
-  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/8f5d316af92e00b36c1de5e62839ffa7604ec376/ft4a-leden.zip",
-  "notes": "Talenblok: titel niet meer afgesneden"
+  "version": "3.2.7",
+  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/eb801485f20bca800e0602da76a6b75f07d209b3/ft4a-leden.zip",
+  "notes": "Prijzen: offline pakketten tonen 'Geen toegang tot de oefeningen' met rood kruis"
 }
