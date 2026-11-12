@@ -1,5 +1,5 @@
 {
-  "version": "3.1.8",
-  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/57ba51a87340e4fa0ad430bf836e058fd96639ce/ft4a-leden.zip",
-  "notes": "Softwarepagina: talenblok zoals op de homepagina, video's openen in popup"
+  "version": "3.1.9",
+  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/7a29c6a5df2d709858722de7712d73ee8ee17693/ft4a-leden.zip",
+  "notes": "Softwarepagina: volgorde blokken, talenblok op dezelfde achtergrond met knop Gratis proberen"
 }
