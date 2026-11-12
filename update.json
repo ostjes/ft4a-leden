@@ -1,5 +1,5 @@
 {
-  "version": "3.3.0",
-  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/a7e9e651ac6f14ea532a73b3645fde95f1f7a1e2/ft4a-leden.zip",
-  "notes": "Prijzen in de eigen munt als hoofdprijs; wisselkoersen dagelijks automatisch van de ECB"
+  "version": "3.3.1",
+  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/1fc4e4d5c4b68f615a2ce87a5de6b366dea28cd0/ft4a-leden.zip",
+  "notes": "Prijzenpagina: blok 'Vragen over de pakketten' verwijderd"
 }
