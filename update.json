@@ -1,5 +1,5 @@
 {
-  "version": "3.3.1",
-  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/1fc4e4d5c4b68f615a2ce87a5de6b366dea28cd0/ft4a-leden.zip",
-  "notes": "Prijzenpagina: blok 'Vragen over de pakketten' verwijderd"
+  "version": "3.3.2",
+  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/57a5414f2e26276d2fc4fe6163a79695ec9c7cc2/ft4a-leden.zip",
+  "notes": "Vragen, handleiding en reviews: modern bovenste blok zoals bij prijzen"
 }
