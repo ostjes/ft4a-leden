@@ -1,5 +1,5 @@
 {
-  "version": "3.3.2",
-  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/57a5414f2e26276d2fc4fe6163a79695ec9c7cc2/ft4a-leden.zip",
-  "notes": "Vragen, handleiding en reviews: modern bovenste blok zoals bij prijzen"
+  "version": "3.3.3",
+  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/7672d99d637fcdfce56c81af254707594f0f495a/ft4a-leden.zip",
+  "notes": "Dynamische sitemap-index (pagina's, oefeningen-afbeeldingen, extra pagina's) en uitgebreide robots.txt"
 }
