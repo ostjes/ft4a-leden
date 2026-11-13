@@ -1,5 +1,5 @@
 {
-  "version": "3.4.5",
-  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/6390d83ecdf6780f806e941b561ffdbc5d3e486a/ft4a-leden.zip",
-  "notes": "Ledenoefeningen: popup met de software staat altijd gecentreerd en vult bij Volledig scherm het hele scherm (bovenop 3.4.4)"
+  "version": "3.4.6",
+  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/895217200694f25dcb43ac113a6b627a428695de/ft4a-leden.zip",
+  "notes": "Handleiding: bibliotheek, importeren, trainingsplan en 6 animatie-onderwerpen toegevoegd"
 }
