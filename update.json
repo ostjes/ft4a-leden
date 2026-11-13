@@ -1,5 +1,5 @@
 {
-  "version": "3.4.6",
-  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/895217200694f25dcb43ac113a6b627a428695de/ft4a-leden.zip",
-  "notes": "Handleiding: bibliotheek, importeren, trainingsplan en 6 animatie-onderwerpen toegevoegd"
+  "version": "3.4.7",
+  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/c7bc085760c4edb39fd83991dcc5c27af3d7e42b/ft4a-leden.zip",
+  "notes": "Ledenoefeningen: 'Open oefening' toont eerst een viewer (veld met animatie en de gegevens van de oefening); 'Bewerken' opent de software"
 }
