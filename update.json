@@ -1,5 +1,5 @@
 {
-  "version": "3.4.4",
-  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/165af51011fb9d495513362c736b084816b40607/ft4a-leden.zip",
-  "notes": "Herstel: 3.4.3 van de andere sessie behouden + handleiding zonder Extra uitleg"
+  "version": "3.4.5",
+  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/6390d83ecdf6780f806e941b561ffdbc5d3e486a/ft4a-leden.zip",
+  "notes": "Ledenoefeningen: popup met de software staat altijd gecentreerd en vult bij Volledig scherm het hele scherm (bovenop 3.4.4)"
 }
