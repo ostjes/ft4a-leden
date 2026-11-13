@@ -1,5 +1,5 @@
 {
-  "version": "3.4.1",
-  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/07e7da8c73ceece2c02f9374ecea2ae92a2e3361/ft4a-leden.zip",
-  "notes": "Handleiding tekenprogramma: nieuwe volgorde, uitleg en exporteren toegevoegd, 4 kaders per rij"
+  "version": "3.4.2",
+  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/e7c15e4a12eabce42795c03b70efd973b1354189/ft4a-leden.zip",
+  "notes": "Ledenoefeningen: software opent in een popup en in de taal van de website; oefeningen uit de database kunnen niet opnieuw gepubliceerd worden (wel bewaren in de bibliotheek)"
 }
