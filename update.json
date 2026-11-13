@@ -1,5 +1,5 @@
 {
-  "version": "3.4.7",
-  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/c7bc085760c4edb39fd83991dcc5c27af3d7e42b/ft4a-leden.zip",
-  "notes": "Ledenoefeningen: 'Open oefening' toont eerst een viewer (veld met animatie en de gegevens van de oefening); 'Bewerken' opent de software"
+  "version": "3.4.8",
+  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/b1f79e87c5eb1635882543a1d854015e72f9e16d/ft4a-leden.zip",
+  "notes": "Viewer van de ledenoefeningen: geen schuifbalk onder het veld, koppen zonder invulhulp"
 }
