@@ -1,5 +1,5 @@
 {
-  "version": "3.6.9",
-  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/6b09bb03f3d9140b45ca6685a7d8f32094055bbc/ft4a-leden.zip",
-  "notes": "Mijn account: vernieuwde kop met pakket, oefeningen en snelle knoppen"
+  "version": "3.6.10",
+  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/e74538925a8cfc0d50ad7b3137c966c908583c7f/ft4a-leden.zip",
+  "notes": "Registreren: alleen het registratieformulier, land standaard ingevuld volgens de taal"
 }
