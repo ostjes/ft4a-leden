@@ -1,5 +1,5 @@
 {
-  "version": "3.6.7",
-  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/5b6e71506b31a28bf89f6478063f0ca94fa4bdb3/ft4a-leden.zip",
-  "notes": "Software downloaden alleen na registreren of inloggen"
+  "version": "3.6.8",
+  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/6f3b95b4984264fafea64d526f2194fad9a8840d/ft4a-leden.zip",
+  "notes": "Downloadknoppen sturen bezoekers zonder account naar het registratieformulier"
 }
