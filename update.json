@@ -1,5 +1,5 @@
 {
-  "version": "3.6.15",
-  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/ed762dd8210de65338942210e80023b1d52cde53/ft4a-leden.zip",
-  "notes": "Nieuwe titels: Allerlei 019 = Voetbal Honkbal, Allerlei 026 = Spits aanspelen (alle talen)"
+  "version": "3.6.16",
+  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/3b9b6cb86d84260f07a67a19c09b92cd369a6f85/ft4a-leden.zip",
+  "notes": "Voetbal Honkbal (Allerlei 019): doel verwijderd uit de oefening en de voorbeeldafbeelding"
 }
