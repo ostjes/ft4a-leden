@@ -1,5 +1,5 @@
 {
-  "version": "3.6.3",
-  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/5b2362c4d19e0715672ee82afd1a3896a5e7e11a/ft4a-leden.zip",
-  "notes": "Online software: bij oefeningen uit de database werken Opslaan als bestand, Video en Oefenblad afdrukken weer; leden hebben geen proefperiode meer in de browser"
+  "version": "3.6.4",
+  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/b0f34890b34e924cf1a2bacc1a271159722b92b6/ft4a-leden.zip",
+  "notes": "Footer: links bij Volg FT4A openen in een nieuw tabblad"
 }
