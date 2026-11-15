@@ -1,5 +1,5 @@
 {
-  "version": "3.6.11",
-  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/c149cec01e47b5f4273038c188169342fa929f08/ft4a-leden.zip",
-  "notes": "Geen melding boven het registratieformulier bij kopen of downloaden zonder account"
+  "version": "3.6.12",
+  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/f04c7e5bc168d3192f7ab9d1b19d855b4e727e62/ft4a-leden.zip",
+  "notes": "Inloggen vernieuwd in dezelfde stijl als registreren; foute login blijft op de site"
 }
