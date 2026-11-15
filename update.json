@@ -1,5 +1,5 @@
 {
-  "version": "3.6.12",
-  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/f04c7e5bc168d3192f7ab9d1b19d855b4e727e62/ft4a-leden.zip",
-  "notes": "Inloggen vernieuwd in dezelfde stijl als registreren; foute login blijft op de site"
+  "version": "3.6.13",
+  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/e1318b50a5f4844dbcb80fab00023a7757eefb09/ft4a-leden.zip",
+  "notes": "Inloggen en registreren over de volle breedte"
 }
