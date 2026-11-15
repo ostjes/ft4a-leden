@@ -1,5 +1,5 @@
 {
-  "version": "3.6.10",
-  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/e74538925a8cfc0d50ad7b3137c966c908583c7f/ft4a-leden.zip",
-  "notes": "Registreren: alleen het registratieformulier, land standaard ingevuld volgens de taal"
+  "version": "3.6.11",
+  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/c149cec01e47b5f4273038c188169342fa929f08/ft4a-leden.zip",
+  "notes": "Geen melding boven het registratieformulier bij kopen of downloaden zonder account"
 }
