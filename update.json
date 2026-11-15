@@ -1,5 +1,5 @@
 {
-  "version": "3.6.4",
-  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/b0f34890b34e924cf1a2bacc1a271159722b92b6/ft4a-leden.zip",
-  "notes": "Footer: links bij Volg FT4A openen in een nieuw tabblad"
+  "version": "3.6.5",
+  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/aeefcd00dfbf15d9711c4dc0727fa8a145f56f1f/ft4a-leden.zip",
+  "notes": "Account aanmaken: naam, voornaam, land, e-mailadres en wachtwoord; het e-mailadres is de gebruikersnaam"
 }
