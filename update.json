@@ -1,5 +1,5 @@
 {
-  "version": "3.6.22",
-  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/2ac527673b12d3f6c7c97e2d7837eab46673f4d0/ft4a-leden.zip",
-  "notes": "Trial: alleen de software testen, geen oefeningendatabase"
+  "version": "3.6.23",
+  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/997b70f55383297807777a381686553f893bcfce/ft4a-leden.zip",
+  "notes": "Trial: eigen oefeningen wel zichtbaar en te openen in Mijn account"
 }
