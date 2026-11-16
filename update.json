@@ -1,5 +1,5 @@
 {
-  "version": "3.6.26",
-  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/d5b8495c1b56cfdbed553bb1535e0c084c6f0cbe/ft4a-leden.zip",
-  "notes": "Afrekenen: bij een ander land wordt de lokale betaalmethode meteen aangevinkt"
+  "version": "3.6.27",
+  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/2a01dd1c4aa1314b8339f3debe0c07a60a8e50fa/ft4a-leden.zip",
+  "notes": "Afrekenen: geen licentiesleutelveld en geen bestelnotitie meer"
 }
