@@ -1,5 +1,5 @@
 {
-  "version": "3.6.25",
-  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/aa3775f849d3081cd1d1969e480cf4306a724898/ft4a-leden.zip",
-  "notes": "Afrekenen: formulier sluit aan op de kop, geen telefoonveld, betaalmethodes volgens land"
+  "version": "3.6.26",
+  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/d5b8495c1b56cfdbed553bb1535e0c084c6f0cbe/ft4a-leden.zip",
+  "notes": "Afrekenen: bij een ander land wordt de lokale betaalmethode meteen aangevinkt"
 }
