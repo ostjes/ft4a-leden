@@ -1,5 +1,5 @@
 {
-  "version": "3.6.24",
-  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/439d6c680d9be1854c35023cec6bf6070b04be85/ft4a-leden.zip",
-  "notes": "WooCommerce-pagina’s: vertaalde koppen met uitleg (winkelmand, afrekenen, bestelling ontvangen, bestellingen)"
+  "version": "3.6.25",
+  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/aa3775f849d3081cd1d1969e480cf4306a724898/ft4a-leden.zip",
+  "notes": "Afrekenen: formulier sluit aan op de kop, geen telefoonveld, betaalmethodes volgens land"
 }
