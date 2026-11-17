@@ -1,5 +1,5 @@
 {
-  "version": "3.6.49",
-  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/5f0e572257f14d3b4fe24adbd5f379af555889df/ft4a-leden.zip",
-  "notes": "Registratie: links naar eigen gebruikersovereenkomst en privacybeleid; favicon.ico en apple-touch-icon in de hoofdmap (geen 404 meer)"
+  "version": "3.6.50",
+  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/cb49d5f4ca4d795e5f93d4eecfc71c0b73dde7ae/ft4a-leden.zip",
+  "notes": "Nieuwe 404-pagina in de stijl van de homepage (buitenspel), in 18 talen"
 }
