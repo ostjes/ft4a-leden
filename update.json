@@ -1,5 +1,5 @@
 {
-  "version": "3.6.52",
-  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/f1cee6a61e23152a42d33c180116963df7d2c0f6/ft4a-leden.zip",
-  "notes": "E-mails: afzender info@ft4a.com, FT4A-opmaak (ook WordPress-mails), in de taal van de klant"
+  "version": "3.6.53",
+  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/65b5e1d5a470022b374f250b2b1e34ee2af57100/ft4a-leden.zip",
+  "notes": "E-mails gemoderniseerd: donkere merkband met logo, grotere titels, strakkere tabellen, knop voor nieuw wachtwoord"
 }
