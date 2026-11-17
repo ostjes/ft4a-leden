@@ -1,5 +1,5 @@
 {
-  "version": "3.6.51",
-  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/d4225e7aeff5a4d8468462dd3bde5b9498214f35/ft4a-leden.zip",
-  "notes": "Beheer: overzicht Proefperiodes (met CSV-export) en kolom Pakket in de gebruikerslijst"
+  "version": "3.6.52",
+  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/f1cee6a61e23152a42d33c180116963df7d2c0f6/ft4a-leden.zip",
+  "notes": "E-mails: afzender info@ft4a.com, FT4A-opmaak (ook WordPress-mails), in de taal van de klant"
 }
