@@ -1,5 +1,5 @@
 {
-  "version": "3.6.48",
-  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/53059a90856180ed6126f29af83411be03c027b1/ft4a-leden.zip",
-  "notes": "Registratie: links naar eigen gebruikersovereenkomst en privacybeleid; favicon.ico en apple-touch-icon zonder 404"
+  "version": "3.6.49",
+  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/5f0e572257f14d3b4fe24adbd5f379af555889df/ft4a-leden.zip",
+  "notes": "Registratie: links naar eigen gebruikersovereenkomst en privacybeleid; favicon.ico en apple-touch-icon in de hoofdmap (geen 404 meer)"
 }
