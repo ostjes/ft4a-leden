@@ -1,5 +1,5 @@
 {
-  "version": "3.6.50",
-  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/cb49d5f4ca4d795e5f93d4eecfc71c0b73dde7ae/ft4a-leden.zip",
-  "notes": "Nieuwe 404-pagina in de stijl van de homepage (buitenspel), in 18 talen"
+  "version": "3.6.51",
+  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/d4225e7aeff5a4d8468462dd3bde5b9498214f35/ft4a-leden.zip",
+  "notes": "Beheer: overzicht Proefperiodes (met CSV-export) en kolom Pakket in de gebruikerslijst"
 }
