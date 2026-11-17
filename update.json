@@ -1,5 +1,5 @@
 {
-  "version": "3.6.31",
-  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/db72af1ab23f7b4b2a9502db06b289b07b42e673/ft4a-leden.zip",
-  "notes": "Importeren (stap 1) werkt nu ook het kenmerk Animatie van bestaande oefeningen bij; eenmalig wordt het voor alle oefeningen opnieuw bepaald"
+  "version": "3.6.32",
+  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/1ea2db1f6478910c302ae37a9785bf93f28e2707/ft4a-leden.zip",
+  "notes": "Handleiding (Noors): 30 Noorstalige video's"
 }
