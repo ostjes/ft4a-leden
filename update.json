@@ -1,5 +1,5 @@
 {
-  "version": "3.6.65",
-  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/81629324e116703207b7b364fe8194fa8830d9c4/ft4a-leden.zip",
-  "notes": "E-mails: merkblok naast het logo verfijnd (.com in het groen van het logo, ondertitel)"
+  "version": "3.6.66",
+  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/d75e5fe3b226b30e20e698946bee920e29f3c6f2/ft4a-leden.zip",
+  "notes": "E-mails altijd in de taal van het lid, Engels als de taal niet duidelijk is; vaste taal voor bestaande leden"
 }
