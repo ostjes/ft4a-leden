@@ -1,5 +1,5 @@
 {
-  "version": "3.6.62",
-  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/7fd34c6fa43b134c0cbc8e2a175790ccbfbfeaea/ft4a-leden.zip",
-  "notes": "Licenties overzetten: taal ook uit e-maildomein/naam, 50-jarenpakketten = levenslang; clubmelding aangepast"
+  "version": "3.6.63",
+  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/3d68baf1c58ec1bd39ebb40d982353694c09a3e1/ft4a-leden.zip",
+  "notes": "Herinneringsmails (30 en 7 dagen, verlopen, proefperiode) in de taal van het lid; oude licentieherinnering uit"
 }
