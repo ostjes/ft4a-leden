@@ -1,5 +1,5 @@
 {
-  "version": "3.6.59",
-  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/44102620b5fb2e3a7eab44f378b435c015630389/ft4a-leden.zip",
-  "notes": "Ledenoverzicht: profiel verwijderen (met bevestiging, keuze voor eigen oefeningen)"
+  "version": "3.6.60",
+  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/dc05c68260e09309614cb446bc9109f8b734107d/ft4a-leden.zip",
+  "notes": "Ledenoverzicht: licentiesleutels en geactiveerde toestellen per lid"
 }
