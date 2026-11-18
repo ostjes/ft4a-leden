@@ -1,5 +1,5 @@
 {
-  "version": "3.6.56",
-  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/226ea2d2ebdaea918eb196a6cf91f8e5ed8d95b4/ft4a-leden.zip",
-  "notes": "SEO-titels zonder FT4A, herschreven (55-60 tekens) in 18 talen"
+  "version": "3.6.57",
+  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/bd6bb99e743b74b4ddf211eb19675221043985b7/ft4a-leden.zip",
+  "notes": "Beheer: ledenoverzicht met tellers, filters, zoeken en CSV-export"
 }
