@@ -1,5 +1,5 @@
 {
-  "version": "3.6.60",
-  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/dc05c68260e09309614cb446bc9109f8b734107d/ft4a-leden.zip",
-  "notes": "Ledenoverzicht: licentiesleutels en geactiveerde toestellen per lid"
+  "version": "3.6.61",
+  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/87fa75bcc7fd6310a1a8af8b7479b9e2d7020143/ft4a-leden.zip",
+  "notes": "Licenties overzetten: nieuwe sleutels voor bestaande offline leden, met e-mail in hun taal"
 }
