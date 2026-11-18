@@ -1,5 +1,5 @@
 {
-  "version": "3.6.66",
-  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/d75e5fe3b226b30e20e698946bee920e29f3c6f2/ft4a-leden.zip",
-  "notes": "E-mails altijd in de taal van het lid, Engels als de taal niet duidelijk is; vaste taal voor bestaande leden"
+  "version": "3.6.67",
+  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/863a3e3899b0e62104accb491a90413ba17b289c/ft4a-leden.zip",
+  "notes": "Alle oefeningen opnieuw genummerd: één reeks per categorie, volgorde behouden, zonder (animatie) in de titel"
 }
