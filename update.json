@@ -1,5 +1,5 @@
 {
-  "version": "3.6.78",
-  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/63bca45225d9bc2b25dbf908bf545c566aa0cbbe/ft4a-leden.zip",
-  "notes": "Promotiemail: bounces automatisch uit de verzending halen (mailbox info@ft4a.com), domeincontrole voor het versturen, oud-leden eerst"
+  "version": "3.6.79",
+  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/ef8eae0609feea49b412784ddf695b5941c2c62b/ft4a-leden.zip",
+  "notes": "Franse pagina's: Facebook-link naar FT4A.fr"
 }
