@@ -1,5 +1,5 @@
 {
-  "version": "3.6.72",
-  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/1d42a4caf0b93a318fb2633cc54bbc1bf8ed5e9c/ft4a-leden.zip",
-  "notes": "Beveiliging + bestanden van leden in afgeschermde map"
+  "version": "3.6.73",
+  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/5101391dec39e761a7f80c12620a6f78229b1c84/ft4a-leden.zip",
+  "notes": "Startpagina stuurt bezoekers door naar hun browsertaal, anders Engels"
 }
