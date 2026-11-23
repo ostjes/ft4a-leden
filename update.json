@@ -1,5 +1,5 @@
 {
-  "version": "3.6.70",
-  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/0a928777691f00828faa47a5df2ac44cbe6e31e2/ft4a-leden.zip",
-  "notes": "SEO: uploadDate van video's met tijd en tijdzone (Search Console-fout opgelost)"
+  "version": "3.6.71",
+  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/cefcffa5f4852db6937ebb21239e09e36686780d/ft4a-leden.zip",
+  "notes": "Beveiliging: inlogpogingen en formulieren beperkt, XML-RPC uit, beveiligingsheaders"
 }
