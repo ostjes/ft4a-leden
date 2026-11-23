@@ -1,5 +1,5 @@
 {
-  "version": "3.6.69",
-  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/38570d85274e402f5916b87cc380403714121345/ft4a-leden.zip",
-  "notes": "Animatievideo voor voorbeeldoefening Scoren 127"
+  "version": "3.6.70",
+  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/0a928777691f00828faa47a5df2ac44cbe6e31e2/ft4a-leden.zip",
+  "notes": "SEO: uploadDate van video's met tijd en tijdzone (Search Console-fout opgelost)"
 }
