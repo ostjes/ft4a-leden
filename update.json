@@ -1,5 +1,5 @@
 {
-  "version": "3.6.77",
-  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/6ffa7403bd3deb864f2f3aff2895dc0428b4ec11/ft4a-leden.zip",
-  "notes": "Promotiemail: oud-leden van ft4a.com komen 30 dagen na het einde van hun pakket automatisch in de wachtrij, met een eigen mail (18 talen)"
+  "version": "3.6.78",
+  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/63bca45225d9bc2b25dbf908bf545c566aa0cbbe/ft4a-leden.zip",
+  "notes": "Promotiemail: bounces automatisch uit de verzending halen (mailbox info@ft4a.com), domeincontrole voor het versturen, oud-leden eerst"
 }
