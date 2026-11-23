@@ -1,5 +1,5 @@
 {
-  "version": "3.6.71",
-  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/cefcffa5f4852db6937ebb21239e09e36686780d/ft4a-leden.zip",
-  "notes": "Beveiliging: inlogpogingen en formulieren beperkt, XML-RPC uit, beveiligingsheaders"
+  "version": "3.6.72",
+  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/1d42a4caf0b93a318fb2633cc54bbc1bf8ed5e9c/ft4a-leden.zip",
+  "notes": "Beveiliging + bestanden van leden in afgeschermde map"
 }
