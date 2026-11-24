@@ -1,5 +1,5 @@
 {
-  "version": "3.6.92",
-  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/f421ff2be3aa113227be8d32fb430d333ec1a83f/ft4a-leden.zip",
-  "notes": "Beheer: Mijn account bekijken als een lid"
+  "version": "3.6.93",
+  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/b79d2603f14a5e218638dd157dc763b2e141e37b/ft4a-leden.zip",
+  "notes": "Keuzescherm: nettere link, ook zichtbaar voor beheerders"
 }
