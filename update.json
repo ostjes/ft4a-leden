@@ -1,5 +1,5 @@
 {
-  "version": "3.6.86",
-  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/67b77c649c7733ff577abbe426623b0e2a7f1947/ft4a-leden.zip",
-  "notes": "Nieuw account: keuzekaders proefperiode of pakket (1 jaar / 50 jaar)"
+  "version": "3.6.87",
+  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/20dae513638f01bcbd3c0f241a36fa90b73d5c43/ft4a-leden.zip",
+  "notes": "Nieuw account: proefperiode start niet meer vanzelf, eerst de keuzekaders"
 }
