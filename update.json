@@ -1,5 +1,5 @@
 {
-  "version": "3.6.95",
-  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/7dbbc1288d8cc2f844ed593bfefa32901b1a3c9e/ft4a-leden.zip",
-  "notes": "Afrekenen en WooCommerce in het Nederlands voor Nederlandstaligen"
+  "version": "3.6.96",
+  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/69d55d349ddecad9f8fd3a167efac50c13bac0cd/ft4a-leden.zip",
+  "notes": "Leesbare foutmeldingen bij afrekenen"
 }
