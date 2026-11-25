@@ -1,5 +1,5 @@
 {
-  "version": "3.7.2",
-  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/643dde130ad4b17a954696773ab28c08b68683f4/ft4a-leden.zip",
-  "notes": "Welkomstmail na registratie"
+  "version": "3.7.3",
+  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/34da1fb8cd14e30ecaa4d783c1bb20b93f8884b2/ft4a-leden.zip",
+  "notes": "Welkomstmail: tekst en zichtbare knoppen"
 }
