@@ -1,5 +1,5 @@
 {
-  "version": "3.7.8",
-  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/27a6934a48768bfbf71ced655c587348927486ea/ft4a-leden.zip",
-  "notes": "Zweedse YouTube-link (footer, contactpagina, SEO) naar het nieuwe kanaal @FT4A_Övningar_Mjukvara"
+  "version": "3.7.9",
+  "package": "https://raw.githubusercontent.com/ostjes/ft4a-leden/c5f14f423820dc418afb2b2f7836b0fd5a82e30b/ft4a-leden.zip",
+  "notes": "Webshoppagina's: de introtekst onder de titel gebruikt de volle breedte (één lijn op brede schermen)"
 }
